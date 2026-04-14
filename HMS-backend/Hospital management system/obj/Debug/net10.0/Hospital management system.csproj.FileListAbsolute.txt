@@ -1,0 +1,35 @@
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\appsettings.json
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.staticwebassets.endpoints.json
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.exe
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.deps.json
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.runtimeconfig.json
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.dll
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Hospital management system.pdb
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dimph\source\repos\Hospital management system\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.csproj.AssemblyReference.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.AssemblyInfoInputs.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.AssemblyInfo.cs
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.csproj.CoreCompileInputs.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.sourcelink.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\scopedcss\bundle\Hospital management system.styles.css
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital.B9D029AE.Up2Date
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.dll
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\refint\Hospital management system.dll
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.pdb
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\Hospital management system.genruntimeconfig.cache
+C:\Users\dimph\source\repos\Hospital management system\obj\Debug\net10.0\ref\Hospital management system.dll

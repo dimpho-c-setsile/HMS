@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tg+F+3TDKwU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Hospital management system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimph\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\dimph\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Hospital management system.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Hospital management system.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
