@@ -97,7 +97,7 @@ const stats = [
     color: 'amber',
   },
 ]
-export function Queue() {
+export default function Queue() {
   const [queue, setQueue] = useState(mockQueue)
   const [isModalOpen, setIsModalOpen] = useState(false)
   const [formData, setFormData] = useState({
@@ -130,7 +130,7 @@ export function Queue() {
     })
   }
   return (
-    <div className="p-8">
+    <div className="p-8 ml-64">
       <div className="mb-8 flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Queue Management</h1>
