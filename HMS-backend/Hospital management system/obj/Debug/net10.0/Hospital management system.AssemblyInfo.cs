@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f716daef-5223-453c-b1e1-c5c9c319a207")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hospital management system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8fe2641b5da0dfddc4942ff306b81f0fe6f597f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77d06055a1b0f349219f915046edf997119de8ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hospital management system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hospital management system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

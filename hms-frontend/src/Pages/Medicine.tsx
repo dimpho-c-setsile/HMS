@@ -8,7 +8,7 @@ import {
 } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import  StatusBadge  from '../Components/StatusBadge'
-import  Modal  from '../Components/Modal'
+import Modal  from '../Components/Modal'
 const initialMockMedicines = [
   {
     id: 1,
@@ -172,7 +172,7 @@ export default function Medicine() {
     })
   }
   return (
-    <div className="p-8 ml-64">
+    <div className="p-8">
       <div className="mb-8 flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">

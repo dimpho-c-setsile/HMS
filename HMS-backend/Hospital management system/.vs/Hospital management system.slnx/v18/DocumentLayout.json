@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\",
+  "WorkspaceRootPath": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hospital management system\\models\\medicinecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:models\\medicinecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hospital management system\\models\\queuemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:models\\queuemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\dtos\\patientsummaryraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:dtos\\patientsummaryraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hospital management system\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hospital management system\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\services\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:services\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\services\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:services\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\services\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:services\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|c:\\users\\dimph\\source\\repos\\hms\\hms-backend\\hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A603A83D-E30F-CB88-4355-1F0CAB6A08FB}|Hospital management system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueueManagement.cs",
-              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\QueueManagement.cs",
-              "RelativeDocumentMoniker": "Models\\QueueManagement.cs",
-              "ToolTip": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\QueueManagement.cs*",
-              "RelativeToolTip": "Models\\QueueManagement.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "services\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\NotFoundException.cs",
+              "RelativeToolTip": "services\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:46:06.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MedicineCollection.cs",
-              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\MedicineCollection.cs",
-              "RelativeDocumentMoniker": "Models\\MedicineCollection.cs",
-              "ToolTip": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\MedicineCollection.cs",
-              "RelativeToolTip": "Models\\MedicineCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:38:24.961Z",
+              "WhenOpened": "2026-05-15T17:25:09.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\Staff.cs",
-              "RelativeDocumentMoniker": "Models\\Staff.cs",
-              "ToolTip": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\Staff.cs*",
-              "RelativeToolTip": "Models\\Staff.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\DTOs\\PatientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\DTOs\\PatientDto.cs",
+              "RelativeToolTip": "DTOs\\PatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T18:38:21.976Z",
+              "WhenOpened": "2026-05-15T17:22:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\PatientService.cs",
+              "RelativeDocumentMoniker": "services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\PatientService.cs",
+              "RelativeToolTip": "services\\PatientService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:21:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientSummaryRaw.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\DTOs\\PatientSummaryRaw.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientSummaryRaw.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\DTOs\\PatientSummaryRaw.cs",
+              "RelativeToolTip": "DTOs\\PatientSummaryRaw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:17:31.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Patients.cs",
-              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\Patients.cs",
-              "RelativeDocumentMoniker": "Models\\Patients.cs",
-              "ToolTip": "C:\\Users\\dimph\\source\\repos\\Hospital management system\\Models\\Patients.cs",
-              "RelativeToolTip": "Models\\Patients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\Patient.cs",
+              "RelativeDocumentMoniker": "services\\Patient.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\Patient.cs",
+              "RelativeToolTip": "services\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T18:40:16.003Z",
+              "WhenOpened": "2026-05-15T17:15:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "Models\\Patients.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\Models\\Patients.cs",
+              "RelativeToolTip": "Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:07:24.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "services\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\services\\IPatientRepository.cs",
+              "RelativeToolTip": "services\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:56:44.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dimph\\source\\repos\\HMS\\HMS-backend\\Hospital management system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:27:28.952Z",
               "EditorCaption": ""
             }
           ]

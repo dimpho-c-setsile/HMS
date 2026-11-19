@@ -1,13 +1,13 @@
 import React, { useState } from 'react'
 import { motion } from 'framer-motion'
 import { CalendarIcon, ClockIcon, PlusIcon } from 'lucide-react'
-import { StatusBadge } from '../components/StatusBadge'
-import { Modal } from '../components/Modal'
+import StatusBadge  from '../Components/StatusBadge'
+import  Modal  from '../Components/Modal'
 const initialMockAppointments = [
   {
     id: 1,
     patientName: 'Sarah Johnson',
-    doctor: 'Dr. Dimpho Chen',
+    doctor: 'Dr. Michael Chen',
     department: 'Cardiology',
     time: '09:00 AM',
     status: 'Completed',
@@ -95,7 +95,7 @@ const initialMockAppointments = [
     date: '2026-03-30',
   },
 ]
-export function Appointments() {
+export default function Appointments() {
   const [appointments, setAppointments] = useState(initialMockAppointments)
   const [selectedDate] = useState('2026-03-30')
   const [isModalOpen, setIsModalOpen] = useState(false)

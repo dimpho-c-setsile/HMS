@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import { motion } from 'framer-motion'
 import { UserIcon, PhoneIcon, MailIcon, PlusIcon } from 'lucide-react'
-import  Modal from '../Components/Modal'
-
+import  Modal  from '../Components/Modal'
 const initialMockStaff = [
   {
     id: 1,
@@ -148,7 +147,7 @@ export default function Staff() {
     })
   }
   return (
-    <div className="p-8 ml-64">
+    <div className="p-8">
       <div className="mb-8 flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Staff</h1>
