@@ -7,11 +7,7 @@ type ModalProps = {
   title: string
   children: React.ReactNode
 }
-<<<<<<< HEAD
-export default function Modal({ isOpen, onClose, title, children }: ModalProps) {
-=======
  const Modal=({ isOpen, onClose, title, children }: ModalProps)=> {
->>>>>>> 58ee822 (Added Components model, sidebar, status card and statusa badge)
   return (
     <AnimatePresence>
       {isOpen && (
@@ -65,8 +61,5 @@ export default function Modal({ isOpen, onClose, title, children }: ModalProps) 
     </AnimatePresence>
   )
 }
-<<<<<<< HEAD
-=======
 
 export default Modal;
->>>>>>> 58ee822 (Added Components model, sidebar, status card and statusa badge)

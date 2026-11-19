@@ -1,6 +1,6 @@
-import React from "react";
+
 import { motion } from "framer-motion";
-import { BoxIcon } from "lucide-react";
+import { type LucideIcon } from "lucide-react";
 type Tone = 'teal' | 'blue' | 'amber' | 'green' | 'red';
 const tones: Record<Tone, {
   bg: string;
@@ -30,7 +30,7 @@ const tones: Record<Tone, {
 type StatCardProps = {
   label: string;
   value: string | number;
-  icon: BoxIcon;
+  icon: LucideIcon;
   tone?: Tone;
   hint?: string;
   index?: number;
